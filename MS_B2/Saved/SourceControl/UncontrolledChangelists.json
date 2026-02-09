@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/FZ/Q3AZYYK74F883JLH55PY50.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/6O/UTZ5QM59G0WVLB48CPSDY4.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/W8/2FMQ0ZYABKP0ZIWNT8WGR9.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/MinigameCam.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMinigame.uasset"
+			]
+		}
+	]
+}
