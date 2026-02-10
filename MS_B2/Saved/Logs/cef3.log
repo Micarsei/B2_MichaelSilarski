@@ -1,5 +1,21 @@
-[8712:11512:0209/110616.162:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[8712:9472:0209/110616.205:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[8712:11512:0209/110616.235:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[11440:9676:0209/110619.426:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-1F771A1E731042C246FB4E6831A0F350 will be ignored
-[8712:11512:0209/121433.244:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[7652:2156:0210/142051.898:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7652:2156:0210/142052.083:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[7652:3952:0210/142052.182:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7652:2156:0210/142052.308:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7652:34260:0210/142101.567:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7652:34260:0210/142101.581:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7652:34260:0210/142101.589:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7652:34260:0210/142101.597:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7652:2156:0210/142101.634:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7652:3952:0210/142104.621:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7652:3952:0210/142104.633:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[7652:9852:0210/142105.317:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
+[7652:2156:0210/142105.408:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[7652:2156:0210/142105.408:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[7652:2156:0210/142105.408:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[7652:2156:0210/142105.408:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[7652:9852:0210/142105.459:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,5]
+[7652:7564:0210/142109.952:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20084:8628:0210/142316.395:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-80AA4FC8A54FC52188BBE527C329DB0C will be ignored
+[7652:2156:0210/171447.596:ERROR:device_event_log_impl.cc(196)] [17:14:47.587] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7652:2156:0210/190109.886:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
