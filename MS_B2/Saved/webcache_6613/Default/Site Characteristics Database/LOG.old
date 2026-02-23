@@ -1,5 +1,1 @@
-2026/02/10-14:20:52.476 758 Log #3: 2 ops saved to Table #4 OK
-2026/02/10-14:20:52.496 758 Archiving C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/02/10-14:20:52.496 758 Table #4: 2 entries OK
-2026/02/10-14:20:52.501 758 Archiving C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/02/10-14:20:52.535 758 **** Repaired leveldb C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/02/10-14:20:52.557 758 Reusing MANIFEST C:\Users\Micarsei\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
