@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/FZ/Q3AZYYK74F883JLH55PY50.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/6O/UTZ5QM59G0WVLB48CPSDY4.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/W8/2FMQ0ZYABKP0ZIWNT8WGR9.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/MinigameCam.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMinigame.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/I5/HR100RNVZ2X8JQVHRDTHI8.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/AH/Q6Y6G8K8YN1FUBIWWLK6EQ.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/Input/IMC_Default.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMinigame2.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMovableEntity.uasset",
+				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/Input/Actions/IA_MiniGameClick.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_HUDWidget.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_TestWidget1.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMinigame2.uasset",
@@ -13,14 +26,7 @@
 				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMinigame.uasset",
 				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/Blueprints/CustomHUDClass.uasset",
-				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_TestWidget2.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/FZ/Q3AZYYK74F883JLH55PY50.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/6O/UTZ5QM59G0WVLB48CPSDY4.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/W8/2FMQ0ZYABKP0ZIWNT8WGR9.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_FirstPersonCameraManager.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/MinigameCam.uasset",
-				"C:/Users/comp5282064/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/MinigameContent/TestMinigame.uasset"
+				"C:/Users/Micarsei/Documents/GitHub/B2_MichaelSilarski/MS_B2/Content/FirstPerson/Blueprints/BP_TestWidget2.uasset"
 			]
 		}
 	]
