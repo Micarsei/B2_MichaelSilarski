@@ -5955,3 +5955,6 @@ Are you sure?
 [2026.03.02-12.09.15:689][ 68]RenderDocPlugin: plugin has been unloaded.
 [2026.03.02-12.09.15:689][ 68]LogXGEController: Cleaning working directory: C:/Users/comp5282064/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.03.02-12.09.15:692][ 68]LogPakFile: Destroying PakPlatformFile
+[2026.03.02-12.09.16:048][ 68]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.02-12.09.16:080][ 68]LogExit: Exiting.
+[2026.03.02-12.09.16:100][ 68]Log file closed, 03/02/26 12:09:16
