@@ -1,0 +1,19 @@
+[25972:20564:0313/103236.479:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[25972:20564:0313/103236.511:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[25972:23168:0313/103236.538:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[25972:20564:0313/103236.567:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[25972:20296:0313/103241.186:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25972:20296:0313/103241.192:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25972:20296:0313/103241.197:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25972:20296:0313/103241.203:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25972:22508:0313/103244.613:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25972:20296:0313/103244.822:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[25972:20296:0313/103244.831:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26396:20108:0313/103245.469:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-620470DFFEE9D3A53629210E27B8148C will be ignored
+[12148:8032:0313/103245.534:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[12148:8032:0313/103245.540:ERROR:backend_impl.cc(989)] Critical error found -8
+[12148:8032:0313/103245.540:WARNING:storage_block-inl.h(138)] Failed data load.
+[12148:8032:0313/103245.540:WARNING:storage_block-inl.h(138)] Failed data load.
+[12148:8032:0313/103245.540:ERROR:entry_impl.cc(1029)] No file for c1030002
+[12148:8032:0313/103245.542:WARNING:storage_block-inl.h(138)] Failed data load.
+[12148:8032:0313/103245.614:ERROR:entry_impl.cc(955)] Failed to save user data
