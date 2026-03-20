@@ -1,3 +1,2 @@
-2026/03/06-09:44:30.060 2594 Reusing MANIFEST C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
-2026/03/06-09:44:30.062 2594 Recovering log #3
-2026/03/06-09:44:30.063 2594 Reusing old log C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db/000003.log 
+2026/03/20-09:50:49.477 25c4 Creating DB C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db since it was missing.
+2026/03/20-09:50:49.487 25c4 Reusing MANIFEST C:\Users\comp5282064\Documents\GitHub\B2_MichaelSilarski\MS_B2\Saved\webcache_6613\Default\shared_proto_db/MANIFEST-000001
