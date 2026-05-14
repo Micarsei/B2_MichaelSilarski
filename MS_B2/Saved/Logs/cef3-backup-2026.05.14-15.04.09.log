@@ -1,0 +1,18 @@
+[21012:21052:0511/105839.403:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21012:26192:0511/105839.552:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21012:21052:0511/105839.630:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[27676:27680:0511/105845.116:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4379BFE14C2908EBA88AE10041DAEF2D will be ignored
+[21012:21052:0511/130201.457:ERROR:device_event_log_impl.cc(196)] [13:02:01.200] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[21012:26192:0511/163314.046:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6932:27704:0511/163314.052:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21012:26996:0511/163316.010:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6932:27696:0511/163316.015:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21012:26192:0511/203314.885:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6932:27704:0511/203314.894:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21012:26192:0511/203314.937:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21012:26996:0511/203314.947:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6932:27696:0511/203314.961:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21012:26996:0511/203325.176:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[6932:27704:0511/203325.178:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[21012:21052:0512/150502.911:ERROR:device_event_log_impl.cc(196)] [15:05:02.809] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[21012:21052:0514/160409.108:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
