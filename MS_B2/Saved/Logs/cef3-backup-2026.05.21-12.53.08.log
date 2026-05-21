@@ -1,0 +1,15 @@
+[8796:63208:0519/143213.714:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8796:68444:0519/143213.865:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8796:63208:0519/143213.926:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[47148:13652:0519/143218.782:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DC619B7CD8245944428DC6F8086B89D9 will be ignored
+[8796:63208:0519/150344.102:ERROR:device_event_log_impl.cc(196)] [15:03:44.010] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8796:63208:0519/163245.037:ERROR:device_event_log_impl.cc(196)] [16:32:44.966] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[8796:73108:0520/091047.503:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[69376:11464:0520/091047.513:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[69376:36420:0520/091049.443:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8796:54704:0520/091049.446:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[69376:36420:0520/131049.283:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8796:73108:0520/131049.286:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8796:54704:0520/131059.772:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[69376:28028:0520/131059.775:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[8796:63208:0521/135308.600:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
